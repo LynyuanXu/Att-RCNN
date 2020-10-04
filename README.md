@@ -1,1 +1,1 @@
-# Att-RCNN
+# Att-RCNN model for Relation-Classification
